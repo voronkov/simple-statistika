@@ -3550,3 +3550,473 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/images/favicon.ico
 ---
+2012/10/01 12:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 12:33:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:33:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:36:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:42:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:42:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:42:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:42:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:43:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:45:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:49:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:53:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/01 12:53:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:59:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/01 12:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 12:59:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 13:00:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/01 13:00:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 13:00:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "images/favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('images/favicon....')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/images/favicon.ico
+---
+2012/10/01 14:08:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "штвуч".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('??????????')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('??????????')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/??????????')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/%D1%88%D1%82%D0%B2%D1%83%D1%87
+---
+2012/10/01 14:09:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:13:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:13:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:13:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:14:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:15:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:15:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/01 14:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:19:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:19:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:19:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/01 14:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:28:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:29:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Системе не удалось найти запрашиваемое действие "images".' in /home/devloper/works/hackip.loc/framework/yiilite.php:3422
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(3304): CController->missingAction('images')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1699): CController->run('images')
+#2 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('site/images/fav...')
+#3 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#4 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/images/favicon.ico
+---
+2012/10/01 14:43:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Невозможно обработать запрос "favicon.ico".' in /home/devloper/works/hackip.loc/framework/yiilite.php:1703
+Stack trace:
+#0 /home/devloper/works/hackip.loc/framework/yiilite.php(1619): CWebApplication->runController('favicon.ico')
+#1 /home/devloper/works/hackip.loc/framework/yiilite.php(1144): CWebApplication->processRequest()
+#2 /home/devloper/works/hackip.loc/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

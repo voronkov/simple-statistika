@@ -2,7 +2,7 @@
 <br />
 <div class="form">
     <?php
-    $form = $this->beginWidget('CActiveForm', array(
+    $form = $this->beginWidget('CActiveForm', array(// генерируем форму авторизации
         'id' => 'login-form',
         'enableClientValidation' => true,
         'clientOptions' => array(
@@ -30,7 +30,7 @@
     </div>
     <br />
     <div class="row">
-        <?php echo CHtml::submitButton('Войти', array('class' => 'btn')); ?>
+        <?php echo CHtml::submitButton('Войти', array('class' => 'btn-success')); ?>
     </div>
 
     <?php $this->endWidget(); ?>

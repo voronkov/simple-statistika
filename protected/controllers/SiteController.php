@@ -8,11 +8,11 @@ class SiteController extends Controller {
         return array();
     }
 
-    public function actionIndex() {
-        $this->render('index');
+    public function actionIndex() { // переадревуем на котроллер на всякий случай, хотя выставлен в настройках контроллер по умолчанию
+        $this->redirect(Yii::app()->baseUrl . '/statistika');
     }
 
-    public function actionError() {
+    public function actionError() { // выкидываем страницу с кодом ошибки, при ошибке
         if ($error = Yii::app()->errorHandler->error) {
             if (Yii::app()->request->isAjaxRequest)
                 echo $error['message'];
@@ -21,7 +21,7 @@ class SiteController extends Controller {
         }
     }
 
-    public function actionLogin() {
+    public function actionLogin() { // очевидно из названия
         $model = new LoginForm;
         if (isset($_POST['ajax']) && $_POST['ajax'] === 'login-form') {
             echo CActiveForm::validate($model);
@@ -35,7 +35,7 @@ class SiteController extends Controller {
         $this->render('login', array('model' => $model));
     }
 
-    public function actionLogout() {
+    public function actionLogout() { // очевидно из названия
         Yii::app()->user->logout();
         $this->redirect(Yii::app()->homeUrl);
     }

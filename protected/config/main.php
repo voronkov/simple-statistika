@@ -2,7 +2,7 @@
 
 return array(
     'basePath' => dirname(__FILE__) . DIRECTORY_SEPARATOR . '..',
-    'name' => 'My Statistika',
+    'name' => 'Статистика', // имя приложения
     'defaultController' => 'Statistika',
     'preload' => array('log'),
     'import' => array(

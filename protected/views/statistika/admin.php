@@ -1,4 +1,17 @@
+<input id="deleteAll" type="button" name="delAll" value="Удалить все записи" class="btn-danger" />
+<br />
 <?php
+$cs = Yii::app()->getClientScript();
+$cs->registerScript(
+        'deleteAll', '    $("#deleteAll").click(
+    function() {
+        var url = "/statistika/deleteAll";
+        $.get(url, function(response) {
+            window.location.href = "";
+        });
+        return false;
+    });', CClientScript::POS_END);
+// Удаляем все 
 
 Yii::app()->clientScript->registerScript('search', "
 $('.search-button').click(function(){
@@ -12,6 +25,7 @@ $('.search-form form').submit(function(){
 	return false;
 });
 ");
+// поиск по таблице
 
 $this->widget('zii.widgets.grid.CGridView', array(
     'id' => 'statistika-grid',
@@ -25,4 +39,5 @@ $this->widget('zii.widgets.grid.CGridView', array(
         'last',
     ),
 ));
+// Виджет таблицы
 ?>
